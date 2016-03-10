@@ -8,8 +8,8 @@ Sudoku Solver
     
     Screenshots :
     
-    ![Home Screen] (https://github.com/abhilashjoel/Sudoku-C/blob/master/Home%20Screen.png)
+    ![Home Screen](https://github.com/abhilashjoel/Sudoku-C/blob/master/Home%20Screen.png)
     
-    ![Input] (https://github.com/abhilashjoel/Sudoku-C/blob/master/Input.png)
+    ![Input](https://github.com/abhilashjoel/Sudoku-C/blob/master/Input.png)
     
-    ![Solution] (https://github.com/abhilashjoel/Sudoku-C/blob/master/Solution.png)
+    ![Solution](https://github.com/abhilashjoel/Sudoku-C/blob/master/Solution.png)
